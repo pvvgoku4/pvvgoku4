@@ -3,12 +3,12 @@ https://github.com/pvvgoku4/
 # Hello 👋, I'm Pasquale Valletta,
 
 ## Perfil 💬
-Ingeniero en el area de Sistemas, aparte de programador me gusta la Electronica, El ensamble de Computadoras
+Ingeniero en el area de Sistemas, aparte de programador me gusta la Electronica, el ensamble de Computadoras
 y los equipos antiguos.
 
 ## Educacion 💬
-Bachiller en Ciencias graduado en 1999
-Graduado del Instituto Tecnologico de Venezuela en 2003
+. Bachiller en Ciencias graduado en 1999
+. Graduado del Instituto Tecnologico de Venezuela en 2003
 
 ## Cursos 💬
 1. Microsoft Outolook (2006)
