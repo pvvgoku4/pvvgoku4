@@ -1,18 +1,16 @@
-http://localhost:8080/pvvgoku4/index.html
-
-https://githum.com/pvvgoku
+https://githum.com/pvvgoku4
 
 # Hello 👋, I'm Pasquale Valletta,
 
-## Perfil
+## Perfil 💬
 Ingeniero en el area de Sistemas, aparte de programador me gusta la Electronica, El ensamble de Computadoras
 y los equipos antiguos.
 
-## Educacion
+## Educacion 💬
 Bachiller en Ciencias graduado en 1999
 Graduado del Instituto Tecnologico de Venezuela en 2003
 
-## Cursos
+## Cursos 💬
 1. Microsoft Outolook (2006)
 1. Soporte Técnico (2006)
 1. MOF Process Model and Services Management Functios (2009)
