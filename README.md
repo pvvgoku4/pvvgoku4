@@ -1,16 +1,47 @@
-### Hi there 👋
+http://localhost:8080/pvvgoku4/index.html
 
-<!--
-**pvvgoku4/pvvgoku4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://githum.com/pvvgoku
 
-Here are some ideas to get you started:
+# Hello 👋, I'm Pasquale Valletta,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perfil
+Ingeniero en el area de Sistemas, aparte de programador me gusta la Electronica, El ensamble de Computadoras
+y los equipos antiguos.
+
+## Educacion
+Bachiller en Ciencias graduado en 1999
+Graduado del Instituto Tecnologico de Venezuela en 2003
+
+## Cursos
+1. Microsoft Outolook (2006)
+1. Soporte Técnico (2006)
+1. MOF Process Model and Services Management Functios (2009)
+1. Microsoft Operation Framework (2009)
+1. Programador Analista en Ambiente Windows (2010)
+1. Microsoft Windows 7 (2010)
+1. Programacion en PHP (2011)
+1. Redes Nivel II (2011)
+1. Microsoft Excel 2010 (2011)
+1. Diseño de Páginas Web (2013)
+
+## Contactos 🔭
+https://github.com/pvvgoku4
+https://www.youtube.com/channel/UCqAcRY07wXaO3445gwe6fJQ
+
+## E-mail 📫 
+pasqualevallettavalente@gmail.com
+
+## Comandos de la Terminal 💬
+| Comando | Descripción               |
+|---------|---------------------------|
+| ls      | Lista el contenido        |
+| cd      | Cambiar entre directorios |
+| yarn    | Instalar dependencias     |
+| gst     | Alias de git status       |
+| clear   | Limpiar la terminal       |
+| alias   | Listar los alias          |
+
+## Estos son mis alias más usados ⚡
+```bash
+mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+```
